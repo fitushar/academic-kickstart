@@ -22,11 +22,14 @@ bio: My research interests include distributed Medical imaging, Segmentation and
 
 interests:
 - Artificial Intelligence
-- Information Retrieval
+- Medical Image Processing and Analysis
+- Image Segmentationa
+- Deeplearning 
+- NLP
 
 education:
   courses:
-  - course: Assicate in Research
+  - course: Associate in Research
     institution: Duke University Medical Center
     year: 2019-present
   - course: Masters in Medical Imaging and Applications
@@ -69,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Fakrul Islam tushar is a Medical Imaging & Computer Vision Engineer, primarily engaged in research, computer-aided diagnosis and healthcare innovation using machine learning, neural networks, and image analysis driven solutions. He graduated from the Erasmus+ Joint Master in Medical Imaging and Applications and is currently a Post-Graduate Research Associate at the Carl E. Ravin Advanced Imaging Laboratories (RAI Labs), Duke University Medical Center, USA. He earned a Bachelor of Science degree in Electrical and Electronics Engineering at American International University Bangladesh (AIUB). He is a recipient of the “Cum Laude” distinction and academic honor at the 17th Convocation Ceremony of AIUB, “Dean’s Award” for his final-year undergraduate research project, the European Union: Erasmus+ Grant and the Duke University: Masters Thesis Grant. His past affiliations include IEEE AIUB Student Branch, Teach For Bangladesh and “Literacy Through Leadership”.
