@@ -1,7 +1,7 @@
 ---
-title: Brain Tissue Segmentation Using NeuroNet With Different Pre-processing Techniques
+title: Weakly supervised 3D classification of chest CT using aggregated multi-resolution deep segmentation features
 authors:
-- F. I. Tushar, B. Alyafi, M. K. Hasan and L. Dahal
+- "*Anindo Saha, *Fakrul I. Tushar, Khrystyna Faryna, Vincent M. D'Anniballe, Rui Hou, Maciej A. Mazurowski, Geoffrey D. Rubin M.D., Joseph Y. Lo (* Author with equal contribution)"
 date: "2019-10-07"
 doi: "10.1109/ICIEV.2019.8858515"
 
