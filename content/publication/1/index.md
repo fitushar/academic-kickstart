@@ -33,12 +33,12 @@ links:
   url: http://example.org
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8858515
 url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
-#url_dataset: '#'
-#url_poster: '#'
-#url_project: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
 url_slides: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ
-#url_source: '
-#url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -52,13 +52,12 @@ url_slides: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
 ---
