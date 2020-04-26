@@ -31,6 +31,8 @@ featured: true
 links:
 - name: Pre-print
   url: https://arxiv.org/abs/1904.00068
+- name: slides
+  url: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8858515
 url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
 url_slides: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ
