@@ -1,7 +1,6 @@
 ---
 title: Brain Tissue Segmentation Using NeuroNet With Different Pre-processing Techniques
-authors:
-- __F. I. Tushar__, B. Alyafi, M. K. Hasan and L. Dahal
+authors: **F. I. Tushar**, B. Alyafi, M. K. Hasan and L. Dahal
 date: "2019-10-07"
 doi: "10.1109/ICIEV.2019.8858515"
 
