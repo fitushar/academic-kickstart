@@ -14,7 +14,7 @@ role: Associate in Research
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University Medical Center 
+- name: Duke University Medical Center
   url: "http://deckard.duhs.duke.edu/railabs/index.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,7 +24,7 @@ interests:
 - Artificial Intelligence
 - Medical Image Processing and Analysis
 - Image Segmentationa
-- Deeplearning 
+- Deeplearning
 - NLP
 
 education:
@@ -49,13 +49,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/f_i_tushar
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=XYvoRsQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fitushar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "Fakrulislam.tushar@duke.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
