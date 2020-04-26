@@ -26,15 +26,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Assicate in Research
+    institution: Duke University Medical Center
+    year: 2019-present
+  - course: Masters in Medical Imaging and Applications
+    institution: Erasmus Mundus Joint Master ( University of Burgundy; University of Cassino; University of Girona, Duke University)
+    year: 2017-2019
+  - course: BSc in Electrical & Electronic Engineering
+    institution: American International University Bangladesh
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
