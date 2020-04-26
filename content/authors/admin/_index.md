@@ -26,7 +26,7 @@ bio: My research interests include distributed Medical imaging, Segmentation and
 interests:
 - Artificial Intelligence
 - Medical Image Processing and Analysis
-- Image Segmentationa
+- Image Segmentation
 - Deeplearning
 - NLP
 
