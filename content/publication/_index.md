@@ -1,6 +1,6 @@
 ---
 title: publication
-date:
+date: 01/02/2020
 
 
 # View.
