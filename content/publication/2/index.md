@@ -1,9 +1,9 @@
 ---
-title: "Weakly supervised 3D classification of chest CT using aggregated multi-resolution deep segmentation features"
+title: Weakly supervised 3D classification of chest CT using aggregated multi-resolution deep segmentation features
 authors:
 - "*Anindo Saha, *Fakrul I. Tushar, Khrystyna Faryna, Vincent M. D'Anniballe, Rui Hou, Maciej A. Mazurowski, Geoffrey D. Rubin M.D., Joseph Y. Lo (* Author with equal contribution)"
 
-date: "2020-03-16T00:00:00Z"
+date: "2020-03-16"
 doi: "https://doi.org/10.1117/12.2550857"
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ tags:
 - Classification
 featured: false
 
-# links:
+#links:
 # - name: ""
 #   url: ""
 url_pdf: https://www.researchgate.net/publication/339956486_Weakly_Supervised_3D_Classification_of_Chest_CT_using_Aggregated_Multi-Resolution_Deep_Segmentation_Features
