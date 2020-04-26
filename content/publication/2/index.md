@@ -1,49 +1,50 @@
 ---
-title: "An example journal article"
+title: "Weakly supervised 3D classification of chest CT using aggregated multi-resolution deep segmentation features"
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+-  *Anindo Saha, *Fakrul I. Tushar, Khrystyna Faryna, Vincent M. D'Anniballe, Rui Hou, Maciej A. Mazurowski, Geoffrey D. Rubin M.D., Joseph Y. Lo (* Author with equal contribution)
+
+date: "2020-03-16T00:00:00Z"
+doi: "https://doi.org/10.1117/12.2550857"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-2"
+publishDate: "2020-04-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "***SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 1131408 (16 March 2020)***"
+publication_short: Proc. SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 1131408 (16 March 2020)
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Weakly supervised disease classification of CT imaging suffers from poor localization owing to case-level annotations, where even a positive scan can hold hundreds to thousands of negative slices along multiple planes. Furthermore, although deep learning segmentation and classification models extract distinctly unique combinations of anatomical features from the same target class(es), they are typically seen as two independent processes in a computer-aided diagnosis (CAD) pipeline, with little to no feature reuse. In this research, we propose a medical classifier that leverages the semantic structural concepts learned via multi-resolution segmentation feature maps, to guide weakly supervised 3D classification of chest CT volumes. Additionally, a comparative analysis is drawn across two different types of feature aggregation to explore the vast possibilities surrounding feature fusion. Using a dataset of 1593 scans labeled on a case-level basis via rule-based model, we train a dual-stage convolutional neural network (CNN) to perform organ segmentation and binary classification of four representative diseases (emphysema, pneumonia/atelectasis, mass and nodules) in lungs. The baseline model, with separate stages for segmentation and classification, results in AUC of 0.791. Using identical hyperparameters, the connected architecture using static and dynamic feature aggregation improves performance to AUC of 0.832 and 0.851, respectively. This study advances the field in two key ways. First, case-level report data is used to weakly supervise a 3D CT classifier of multiple, simultaneous diseases for an organ. Second, segmentation and classification models are connected with two different feature aggregation strategies to enhance the classification performance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
-- Source Themes
+- Deep Learning
+- Segmentation
+- Classification
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.researchgate.net/publication/339956486_Weakly_Supervised_3D_Classification_of_Chest_CT_using_Aggregated_Multi-Resolution_Deep_Segmentation_Features
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_slides: https://drive.google.com/file/d/1pc3FN_z2fQmhCdaXTbOJVTCc1xI4xTsu/view?usp=sharing
+url_video: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/1131408/Weakly-supervised-3D-classification-of-chest-CT-using-aggregated-multi/10.1117/12.2550857.short?SSO=1&tab=ArticleLink
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Proposed CAD'
   focal_point: ""
   preview_only: false
 
@@ -61,13 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
