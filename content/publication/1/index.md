@@ -6,7 +6,7 @@ date: "2019-10-07"
 doi: "10.1109/ICIEV.2019.8858515"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-26"
+publishDate: "2020-04-1"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
