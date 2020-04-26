@@ -16,6 +16,9 @@ role: Associate in Research
 organizations:
 - name: Duke University Medical Center
   url: "http://deckard.duhs.duke.edu/railabs/index.html"
+- name: Erasmus Mundus Joint Master Degree in Medical Imaging and Applications
+  url: "https://maiamaster.udg.edu/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed Medical imaging, Segmentation and Classification.
@@ -46,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:ft42@duke.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/f_i_tushar
