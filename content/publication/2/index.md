@@ -31,17 +31,13 @@ tags:
 - Resnet3D
 featured: true
 
-#links:
-#- name:
-  #url: https://arxiv.org/abs/1904.00068
+links:
+- name: Slides
+  url: https://drive.google.com/open?id=1pc3FN_z2fQmhCdaXTbOJVTCc1xI4xTsu
 url_pdf: https://www.researchgate.net/publication/339956486_Weakly_Supervised_3D_Classification_of_Chest_CT_using_Aggregated_Multi-Resolution_Deep_Segmentation_Features
 url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: https://drive.google.com/file/d/1pc3FN_z2fQmhCdaXTbOJVTCc1xI4xTsu/view?usp=sharing
 url_video: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/1131408/Weakly-supervised-3D-classification-of-chest-CT-using-aggregated-multi/10.1117/12.2550857.short?SSO=1&tab=ArticleLink
-url_source: ''
+
 
 
 # Featured image
