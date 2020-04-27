@@ -2,7 +2,7 @@
 title: Development of a Modular Biopotential Amplifier Trainer for Biomedical Instrumentation Laboratory Experiments
 subtitle: "Image Processing Project ​(First Semester of MAIA at University of Burgundy, February 2018)."
 authors:
-- "Saiful Islam Khan, Fakrul Islam Tushar, Md. Amirul Islam Rokan, Rupu Chowdhury"
+- "Fakrul Islam Tushar, Md. Kamrul Hasan"
 date: "2018-02-10"
 
 
