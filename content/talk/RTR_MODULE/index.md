@@ -1,5 +1,6 @@
 ---
 title: Development of a Modular Biopotential Amplifier Trainer for Biomedical Instrumentation Laboratory Experiments
+subtitle: "Final year Undergraduate Project ( American International University Bangladesh), Dean's Award for securing 2nd place out of 180 projects of Academic year 2016-2017."
 authors:
 - "Saiful Islam Khan, Fakrul Islam Tushar, Md. Amirul Islam Rokan, Rupu Chowdhury"
 date: "2018-03-29"
