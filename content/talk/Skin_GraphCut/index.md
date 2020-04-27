@@ -4,7 +4,7 @@ subtitle: Advanced Image Processing ​(Second Semester of MAIA at University of
 authors:
 - Fakrul Islam Tushar
 date: "2018-06-28"
-doi: "http://arxiv.org/abs/1810.00871"
+#doi: "http://arxiv.org/abs/1810.00871"
 
 # Schedule page publish date (NOT publication's date).
 
