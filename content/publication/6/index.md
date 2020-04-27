@@ -1,7 +1,7 @@
 ---
-title: DSNet: Automatic dermoscopic skin lesion segmentation
+title: "DSNet: Automatic dermoscopic skin lesion segmentation"
 authors:
-- "Md. Kamrul Hasan and Lavsen Dahal and Prasad N. Samarakoon and Fakrul Islam Tushar and Robert Martí"
+- "Md. Kamrul Hasan ,Lavsen Dahal, Prasad N. Samarakoon, Fakrul Islam Tushar, Robert Martí"
 date: "2020-04-2"
 doi: "10.1016/j.compbiomed.2020.103738"
 
