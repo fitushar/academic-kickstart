@@ -1,7 +1,7 @@
 ---
 title: Attention-guided classification of abnormalities in semi-structured computed tomography reports
 authors:
-- "Khrystyna Faryna, Fakrul I. Tushar, Khrystyna Faryna, Vincent M. D'Anniballe, Rui Hou, Geoffrey D. Rubin M.D., Joseph Y. Lo (* Author with equal contribution)"
+- "Khrystyna Faryna, Fakrul I. Tushar, Khrystyna Faryna, Vincent M. D'Anniballe, Rui Hou, Geoffrey D. Rubin M.D., Joseph Y. Lo"
 date: "2020-03-16"
 doi: "10.1117/12.2551370"
 
