@@ -1,5 +1,5 @@
 ---
-title: Attention-guided classification of abnormalities in semi-structured computed tomography reports
+title: Classification of Chest CT Using Case-level Weak Supervision
 authors:
 - "Ruixiang Tang, Fakrul Islam Tushar, Songyue Han, Rui Hou, Geoffrey D. Rubin, Joseph Y. Lo"
 date: "2019-03-13"
@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: "Proc. SPIE 10950, Medical Imaging 2019: Computer-Aided Diagnosis, 1095017 (13 March 2019)"
 publication_short: "Proc. SPIE 10950, Medical Imaging 2019: Computer-Aided Diagnosis, 1095017 (13 March 2019)"
 
-abstract: "Lack of annotated data is a major challenge to machine learning algorithms, particularly in the field of radiology. Algorithms that can efficiently extract labels in a fast and precise manner are in high demand. Weak supervision is a compromise solution, particularly, when dealing with imaging modalities like Computed Tomography (CT), where the number of slices can reach 1000 per case. Radiology reports store crucial information about clinicians’ findings and observations in CT slices. Automatic generation of labels from CT reports is not a trivial task due to the complexity of sentences and diversity of expression in free-text narration. In this study, we focus on abnormality classification in lungs, liver and kidneys. Firstly, a rule-based model is used to extract weak labels at the case level. Afterwards, attention guided recurrent neural network (RNN) is trained to perform binary classification of radiology reports in terms of whether the organ is normal or abnormal. Additionally, a multi-label RNN with attention mechanism is trained to perform binary classification by aggregating its output for four representative diseases (lungs: emphysema, mass-nodule, effusion and atelectasis-pneumonia; liver: dilatation, fatty infiltration-steatosis, calcification-stone-gallstone, lesion-mass; kidneys: atrophy, cyst, stone-calculi, lesion) into a single abnormal class. Performance has been evaluated using the receiver operating characteristic (ROC) area under the curve (AUC) on 274, 306 and 278 reports for lungs, liver and kidneys correspondingly, manually annotated by radiology experts. The change in performance was evaluated for different sizes of training dataset for lungs. The AUCs of multi-label pretrained models: lungs - 0.929, liver - 0.840, kidney - 0.844; multi-label models: lungs - 0.903, liver - 0.848, kidney - 0.906; binary pretrained models: lungs - 0.922, liver - 0.826, kidneys - 0.928."
+abstract: "Our goal is to investigate using only case-level labels extracted automatically from radiology reports to construct a multi-disease classifier for CT scans with deep learning method. We chose four lung diseases as a start: atelectasis, pulmonary edema, nodule and pneumonia. From a dataset of approximately 5,000 chest CT cases from our institution, we used a rule-based model to analyze those radiologist reports, labeling disease by text mining to identify cases with those diseases. From those results, we randomly selected the following mix of cases: 275 normal, 170 atelectasis, 175 nodule, 195 pulmonary edema, and 208 pneumonia. As a key feature of this study, each chest CT scan was represented by only 10 axial slices (taken at regular intervals through the lungs), and furthermore all slices shared the same label based on the radiology report. So the label was weak, because often disease will not appear in all slices. We used ResNet-50[1] as our classification model, with 4-fold cross-validation. Each slice was analyzed separately to yield a slice-level performance. For each case, we chose the 5 slices with highest probability and used their mean probability as the final patient-level probability. Performance was evaluated using the receiver operating characteristic (ROC) area under the curve (AUC). For the 4 diseases separately, the slice-based AUCs were 0.71 for nodule, 0.79 for atelectasis, 0.96 for edema, and 0.90 for pneumonia. The patient-based AUC were 0.74 for nodule, 0.83 for atelectasis, 0.97 for edema, and 0.91 for pneumonia. We backprojected the activations of last convolution layer and the weights from prediction layer to synthesize a heat map [2] . This heat map could be an approximate disease detector, also could tell us feature patterns which ResNet-50 focus on"
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -27,20 +27,21 @@ tags:
 - Deep-learning
 - NLP
 - Rule-Based Model
+- Classification
 featured: true
 
 links:
 - name: Slides
-  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/113141P/Attention-guided-classification-of-abnormalities-in-semi-structured-computed-tomography/10.1117/12.2551370.short
-url_pdf: https://drive.google.com/open?id=1CUlLUc630ZPDLWX7PAnlH3bZGufTZtR3
-url_video: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/113141P/Attention-guided-classification-of-abnormalities-in-semi-structured-computed-tomography/10.1117/12.2551370.short
+  url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/1095017/Classification-of-chest-CT-using-case-level-weak-supervision/10.1117/12.2513576.full?sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&webSyncID=0ce46e9e-6ec7-a49d-ab6a-0cbad059329a&SSO=1
+url_pdf: https://drive.google.com/open?id=117cPie0MzPBXm8fvhRJCcrg5si1PXwtm
+url_video: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/1095017/Classification-of-chest-CT-using-case-level-weak-supervision/10.1117/12.2513576.full?sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&webSyncID=0ce46e9e-6ec7-a49d-ab6a-0cbad059329a&SSO=1
 
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Proposed Rule-Based Model'
+  caption: 'Proposed Diagnosis'
   focal_point: ""
   preview_only: false
 
