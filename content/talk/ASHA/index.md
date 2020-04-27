@@ -3,7 +3,8 @@ title: ASHA -A Solution to Help Autism
 sub_title: IEEE madC Application Contest 2016
 authors:
 - Fakrul Islam Tushar, Md. Amirul Islam Rokan, Rupuchowdhury Rupu
-date: "2016"
+date: "2019-11-09"
+weight: 10
 
 # Schedule page publish date (NOT publication's date).
 
@@ -31,9 +32,9 @@ featured: true
 
 links:
 - name: Application-download
-  url: https://arxiv.org/abs/1904.00068
+  url: https://drive.google.com/open?id=1BNje7eMaaX339vZrXDhoONlcJegc21P_
 - name: ASHA-Facebook
-  url:
+  url: https://www.facebook.com/ASHA.autism/
 
 
 
