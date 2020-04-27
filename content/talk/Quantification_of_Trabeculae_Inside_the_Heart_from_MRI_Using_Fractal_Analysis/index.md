@@ -3,7 +3,7 @@ title: Quantification of Trabeculae Inside the Heart from MRI Using Fractal Anal
 subtitle: Medical Sensor Project ​(First Semester of MAIA at University of Burgundy, February 2018)
 authors:
 - M. K. Hasan, F. I. Tushar
-date: "2018-20-07"
+date: "2018-02-20"
 doi: "arXiv:1810.04637"
 
 # Schedule page publish date (NOT publication's date).
