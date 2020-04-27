@@ -3,8 +3,8 @@ title: ASHA -A Solution to Help Autism
 sub_title: IEEE madC Application Contest 2016
 authors:
 - Fakrul Islam Tushar, Md. Amirul Islam Rokan, Rupuchowdhury Rupu
-date: "2019-11-09"
-weight: 20
+date: "2016-04-14"
+
 
 # Schedule page publish date (NOT publication's date).
 
