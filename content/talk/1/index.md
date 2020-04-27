@@ -4,7 +4,7 @@ authors:
 - F. I. Tushar, B. Alyafi, M. K. Hasan and L. Dahal
 date: "2019-10-07"
 doi: "10.1109/ICIEV.2019.8858515"
-weight: 20
+weight: 10
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-01"
