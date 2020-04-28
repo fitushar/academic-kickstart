@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Dhaka"
   date_start = "2016-02-01"
   date_end = "2017-02-01"
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
   title = "Youth Leader (Teacher)"
@@ -65,6 +59,15 @@ date_format = "Jan 2006"
   * Awarded "Exemplary New IAS Student Chapter 2016"
 
     """
+
+[[experience]]
+  title = "IEEE Day Section Ambassador 2015 & 2016"
+  company = "IEEE"
+  company_url = "https://www.ieee.org/"
+  location = "Dhaka"
+  date_start = "2016-01-01"
+  date_end = "2017-12-30"
+  description = """"""
 
 
 +++
