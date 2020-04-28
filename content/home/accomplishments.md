@@ -20,9 +20,8 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "European Union"
-  organization_url = "https://www.coursera.org"
-  title = "Erasmus Mundus Joint Master (EMJMD) Scholarship for Master’s in Medical Imaging and
-  Applications,"
+  organization_url = "https://maiamaster.udg.edu/"
+  title = "Erasmus Mundus Joint Master (EMJMD) Scholarship for Master’s in Medical Imaging and Applications"
   url = "https://maiamaster.udg.edu/"
   certificate_url = "https://drive.google.com/open?id=1Ko97XOq6wQwDv475qfGG9J2Sn6r99N0L"
   date_start = "2017-09-18"
