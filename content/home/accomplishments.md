@@ -19,14 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "European Union"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  title = "Erasmus Mundus Joint Master (EMJMD) Scholarship for Master’s in Medical Imaging and
+  Applications,"
+  url = "https://maiamaster.udg.edu/"
+  certificate_url = "https://drive.google.com/open?id=1Ko97XOq6wQwDv475qfGG9J2Sn6r99N0L"
+  date_start = "2017-09-18"
+  date_end = "2019-09-13"
+  description = "covered full tuition fees and monthly stipend (42,000 EUR)"
 
 [[item]]
   organization = "edX"
