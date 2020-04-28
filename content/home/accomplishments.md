@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Accomplish&shy;ments (Scholarships and Awards)"
-subtitle = ""
+title = "Accomplish&shy;ments"
+subtitle = "Scholarships and Awards"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
