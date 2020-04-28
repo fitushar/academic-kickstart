@@ -34,9 +34,10 @@ tags:
 
 
 featured: true
-link:
--name: Slides
- url: https://github.com/fitushar/Design-an-inverse-kinematic-controller-to-move-end-effector-/blob/master/Robotics_Presentation.pdf
+
+links:
+- name: Slides
+  url: https://github.com/fitushar/Design-an-inverse-kinematic-controller-to-move-end-effector-/blob/master/Introduction_to_robotics_project03.pdf
 url_code: https://github.com/fitushar/Design-an-inverse-kinematic-controller-to-move-end-effector-
 
 
