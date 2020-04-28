@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CITI Program, A Division of BRANY"
   organization_url = "https://www.edx.org"
-  title = "Biomedical Research - Basic/Refresher - Vulnerable Subjects - Research Involving Prisoners (ID 30576)"
+  title = 'Biomedical Research - Basic/Refresher - Vulnerable Subjects - Research Involving Prisoners (ID 30576)'
   url = ""
   certificate_url = "https://www.citiprogram.org/verify/?w73248ca8-339c-4ca1-b840-cef7f74ab516-33589525"
   date_start = "2019-10-15"
