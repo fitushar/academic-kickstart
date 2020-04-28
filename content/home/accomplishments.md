@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   title = "Academic Scholarship from American International University Bangladesh (AIUB)"
   url = ""
   certificate_url = ""
-  date_start = "2013-01-1"
+  date_start = "2013-01-01"
   date_end = "2017-02-11"
-  description = "For exceptional performance throughout the academic years (450,000 BDT)."  
+  description = "For exceptional performance throughout the academic years (450,000 BDT)"  
 
 +++
