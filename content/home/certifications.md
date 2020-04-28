@@ -38,14 +38,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "CITI Program, A Division of BRANY"
-  organization_url = "https://www.edx.org"
-  title = "Research Involving Prisoners (ID 30576)"
-  url = ""
-  certificate_url = "https://www.citiprogram.org/verify/?w73248ca8-339c-4ca1-b840-cef7f74ab516-33589525"
-  date_start = "2019-10-15"
-  date_end = ""
-  description = ""
-
 +++
