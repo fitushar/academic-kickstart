@@ -35,6 +35,7 @@ links:
   url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/1095017/Classification-of-chest-CT-using-case-level-weak-supervision/10.1117/12.2513576.full?sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&webSyncID=0ce46e9e-6ec7-a49d-ab6a-0cbad059329a&SSO=1
 url_pdf: https://drive.google.com/open?id=117cPie0MzPBXm8fvhRJCcrg5si1PXwtm
 url_video: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/1095017/Classification-of-chest-CT-using-case-level-weak-supervision/10.1117/12.2513576.full?sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&sessionGUID=d883c9d9-02bc-9993-ced2-68bead49a285&webSyncID=0ce46e9e-6ec7-a49d-ab6a-0cbad059329a&SSO=1
+url_code: https://github.com/fitushar/Classification-of-chest-CT-using-caselevel-weak-supervision
 
 
 
