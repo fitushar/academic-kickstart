@@ -38,4 +38,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Academic Honor for Academic Excellences at AIUB's 17th Convocation."
 
+[[item]]
+  organization = "American International University Bangladesh (AIUB)"
+  organization_url = "https://www.aiub.edu/"
+  title = "DEAN’S Award"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=1HI5mHF4CDVfSf1YhYPkBn0pWrrjXpaE2"
+  date_start = "2017-02-11"
+  date_end = ""
+  description = "For Undergrad final year project, securing 2nd place among 180 groups in Academic year 2016 and 2017."  
+
 +++
