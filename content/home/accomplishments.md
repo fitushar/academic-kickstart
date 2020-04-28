@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/open?id=1HI5mHF4CDVfSf1YhYPkBn0pWrrjXpaE2"
   date_start = "2017-02-11"
   date_end = ""
-  description = "For Undergrad final year project, securing 2nd place among 180 project/thesis groups in Academic year 2016-17."
+  description = "For Undergrad final year project, securing 2nd place among 180 groups in Academic year 2016-17."
 
 [[item]]
   organization = "American International University Bangladesh (AIUB)"
