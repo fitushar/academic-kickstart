@@ -41,4 +41,30 @@ date_format = "Jan 2006"
   date_end = "2016-03-31"
   description = """In collaboration with Teach For Bangladesh, contributed total 78 hours in 13 weeks' period, 6 hours per week to improve 40 underprivileged Primary School students' English Reading and writing skill."""
 
+[[experience]]
+  title = "Vice Chair"
+  company = "IEEE Microwave Theory and Techniques Society AIUB SB Chapter  "
+  company_url = "https://ieeeaiubsb.com/"
+  location = "Dhaka"
+  date_start = "2016-02-01"
+  date_end = "2017-02-01"
+  description = """
+  * Planned events to Build interest in microwave related researches.
+  * Successfully organized 3 workshops and 1 seminar on microwave related fields.
+  """
+[[experience]]
+  title = "Vice Chair"
+  company = "IEEE Industry Application Society AIUB SB Chapter"
+  company_url = "https://ieeeaiubsb.com/"
+  location = "Dhaka"
+  date_start = "2016-02-01"
+  date_end = "2017-02-01"
+  description = """
+  * Collaborated with industries and organized 4 industrial tours for students.
+  * Organized 4 workshops on stem fields, such as MATLAB, Building wiring, Arduino, and PCB fabrication.
+  * Awarded "Exemplary New IAS Student Chapter 2016"
+
+    """
+
+
 +++
