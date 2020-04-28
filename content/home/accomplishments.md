@@ -46,6 +46,16 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/open?id=1HI5mHF4CDVfSf1YhYPkBn0pWrrjXpaE2"
   date_start = "2017-02-11"
   date_end = ""
-  description = "For Undergrad final year project, securing 2nd place among 180 groups in Academic year 2016 and 2017."  
+  description = "For Undergrad final year project, securing 2nd place among 180 groups in Academic year 2016 and 2017."
+
+[[item]]
+  organization = "American International University Bangladesh (AIUB)"
+  organization_url = "https://www.aiub.edu/"
+  title = "Academic Scholarship from American International University Bangladesh (AIUB)"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-1"
+  date_end = "2017-02-11"
+  description = "For exceptional performance throughout the academic years (450,000 BDT)."  
 
 +++
