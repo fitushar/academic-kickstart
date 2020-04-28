@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/open?id=1LYIxnFpXmddXrXor-NlK85jxAvNK9qvn"
   date_start = "2017-02-11"
   date_end = ""
-  description = "Academic Honour "Cum Laude" for Academic Excellences at AIUB's 17th Convocation."
+  description = "Academic Honor for Academic Excellences at AIUB's 17th Convocation."
 
 [[item]]
   organization = "American International University Bangladesh (AIUB)"
