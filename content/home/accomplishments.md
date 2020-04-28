@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "American International University Bangladesh (AIUB)"
-  organization_url = https://www.aiub.edu/"
+  organization_url = "https://www.aiub.edu/"
   title = "Cum Laude Distinction"
   url = "https://drive.google.com/open?id=1LYIxnFpXmddXrXor-NlK85jxAvNK9qvn"
   certificate_url = "https://drive.google.com/open?id=1LYIxnFpXmddXrXor-NlK85jxAvNK9qvn"
