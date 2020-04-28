@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplish&shy;ments (Scholarships and Awards)"
 subtitle = ""
 
 # Date format
@@ -49,13 +49,14 @@ date_format = "Jan 2006"
   description = "For Undergrad final year project, securing 2nd place among 180 project/thesis groups in Academic year 2016-17."
 
 [[item]]
-  organization = ""
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "American International University Bangladesh (AIUB)"
+  organization_url = "https://www.aiub.edu/"
+  title = "Academic Scholarship from American International University-Bangladesh (AIUB)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2013-01-1"
+  date_end = "2017-02-11"
+  description = "For exceptional performance throughout the academic years (500,000 BDT)."
+
 
 +++
