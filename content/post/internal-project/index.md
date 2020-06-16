@@ -1,5 +1,5 @@
 ---
-title: Erasmus+: Eramus Mundus Scholarship FAQs
+title: Eramus Mundus Scholarship FAQs
 summary: Trying cover the FAQs abour ERASMUS+ Scholarship funed By European Union.
 tags:
 - Scholarship
