@@ -4,20 +4,20 @@ summary: Trying cover the FAQs abour ERASMUS+ Scholarship funed By European Unio
 tags:
 - Scholarship
 - Erasmus+ Scholarship
-date: "2016-04-27T00:00:00Z"
+date: "2017-07-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Eerasmus Mundus Scholarship 2017
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -58,4 +58,4 @@ ANS: read the program website more than five times, try to understand what does 
 Useful link to know details About Erasmus+ Scholarships :http://bangla.samakal.net/2015/11/01/170700
 Some useful FB links, follow those pages and group you will get useful information too. Erasmus+ : https://www.facebook.com/EUErasmusPlusProgramme/
 Erasmus Mundus Bangladesh: https://www.facebook.com/groups/105556129476392/?ref=br_rs
-Erasmus Mundus Association: https://www.facebook.com/ErasmusMundusAssociation/ 
+Erasmus Mundus Association: https://www.facebook.com/ErasmusMundusAssociation/
