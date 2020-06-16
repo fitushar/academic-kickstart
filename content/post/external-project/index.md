@@ -1,9 +1,9 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Erasmus+: Eramus Mundus Scholarship FAQs.
+summary: Covering the FAQs about Erasmus Mundus scholarship.
 tags:
 - Demo
-date: "2016-04-27T00:00:00Z"
+date: "2017-06-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: http://example.org
