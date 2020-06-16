@@ -1,8 +1,9 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Erasmus+: Eramus Mundus Scholarship FAQs
+summary: Trying cover the FAQs abour ERASMUS+ Scholarship funed By European Union.
 tags:
-- Deep Learning
+- Scholarship
+- Erasmus+ Scholarship
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
