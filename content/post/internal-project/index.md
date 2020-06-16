@@ -32,10 +32,13 @@ slides: example
 ---
 
 Every day I received numbers of massages regarding application procedure to Erasmus+: Erasmus Mundus Scholarship, This might help all.  
-1st. Erasmus Mundus joint master programs are fully funded by European Union and usually master programs are divided between 2 or more countries.
-2nd. There are 60+ different programs in Erasmus+, each program has their own requirements. Go through this link: https://eacea.ec.europa.eu/erasmus-plus/library/scholarships-catalogue_en   you will find all the programs and program websites. Go through PROGRAM websites those about requirements, application processes and datelines.
+
+*1st. Erasmus Mundus joint master programs are fully funded by European Union and usually master programs are divided between 2 or more countries.
+
+*2nd. There are 60+ different programs in Erasmus+, each program has their own requirements. Go through this link: https://eacea.ec.europa.eu/erasmus-plus/library/scholarships-catalogue_en   you will find all the programs and program websites. Go through PROGRAM websites those about requirements, application processes and datelines.
 ****most of the websites has FAQ sections, read those sections. You will get 90% of your questions answered there.
-3rd. you can apply in 3 programs max in one year . Common requirement : a)Educational documents( Certificates and Transcripts) b)CV c) Motivation letter d)Recommendation letters (usually 2 needed) e) IELTS.
+
+*3rd. you can apply in 3 programs max in one year . Common requirement : a)Educational documents( Certificates and Transcripts) b)CV c) Motivation letter d)Recommendation letters (usually 2 needed) e) IELTS.
 *****Requirements varies Program to program, Follow the program website.
 ***ABOUT IELTS: If your medium of instruction in University is English then in some programs you may don’t need IELTS SCORE, if so then it must be mentioned on a document provide by your university that your medium of instruction is English.
 Some Common Question that people asked me:  
