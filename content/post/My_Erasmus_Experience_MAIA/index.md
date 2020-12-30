@@ -1,11 +1,10 @@
 ---
-title: Writing A Scholarship-Awarding Motivation Letter
-summary: A guide to writing a MOL/SOP.
+title: My Erasmus Experience-MAIA
+summary: Education with Travel & Cultural Experience.
 tags:
 - Scholarship
 - Erasmus+ Scholarship
-- Statement of Purpose
-- Letter of Motivation
+- MAIA
 date: "2017-07-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -21,6 +20,6 @@ links:
 - icon: ""
   icon_pack: ""
   name: "Medium Post Link"
-  url: "https://f-i-tushar-eee.medium.com/writing-a-scholarship-awarding-motivation-letter-9337c56895f5"
+  url: "https://f-i-tushar-eee.medium.com/my-erasmus-experience-maia-adb7e6dd592f"
 
 ---
