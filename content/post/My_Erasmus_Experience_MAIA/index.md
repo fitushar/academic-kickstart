@@ -13,7 +13,7 @@ external_link: ""
 
 
 image:
-  caption: Sections of my MOL and motivation behind each section
+  caption: Education with Travel & Cultural Experience
   focal_point: Smart
 
 links:
